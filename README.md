@@ -1,12 +1,10 @@
 # odin-recipes
-I have no idea what to write here.
+I really took this project seriously and have a polished website
+for exactly one recipe.
+yes, they all link to the same recipe page, because I'm that lazy
 
-I guess this is supposed to be a website with recipe links?
-It's an odd format to write this up before really knowing
-anything about the project, but whatever, trust the method.
+This project ended up being more fun than I thought it would be
+but its still a high school level website design.
 
-I hope to learn to code better and have a basis for robust projects 
-in my github account.
-I really want to use this to get better at coding but more so...
-I NEED A GOOD JOB!
+I'm hoping to build more skills and focus.  Hope you enjoy this!
 
